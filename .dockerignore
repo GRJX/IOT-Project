@@ -1,0 +1,42 @@
+# VS Code IDE files
+.vscode/
+
+# Node artifact files
+node_modules/
+dist/
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Playwright files
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Cucumber files
+reports/
+
+# Git files
+.github/
+.gitignore
+
+# Docker files
+.dockerignore
+Dockerfile
+
+# Repository files
+README.md
+
+# Compiler files
+.eslintrc.cjs
+tsconfig.json
